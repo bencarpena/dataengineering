@@ -21,6 +21,7 @@ My proposed solution architecture and data engineering pipeline ingests data in 
 - Make your transformations dynamic i.e. your logic and transform codes have to be agnostic and portable to any platform.
 - Leverage cloud resources whenever possible in order to effectively scale when warranted.
 - Utilize a Master Domain Model reference from within your transformations to avoid hard-coding parameters from within sub-queries.
+- Data lake and Data Warehouse = Lake House. This is a key enabler when implemented right.
 
 
 ## Solution Architecture and Data Engineering Diagram
