@@ -24,4 +24,4 @@ My proposed solution architecture and data engineering pipeline ingests data in 
 - Data lake and Data Warehouse = Lake House. This is a key enabler when implemented right.
 
 
-## Solution Architecture and Data Engineering Diagram
+## Solution Architecture and Data Engineering Diagram : Modern Data Warehousing
