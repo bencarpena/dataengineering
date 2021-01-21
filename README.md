@@ -27,4 +27,6 @@ My proposed solution architecture and data engineering pipeline ingests data in 
 ## Solution Architecture and Data Engineering Diagram : Modern Data Warehousing
 ![Strategy and Approach](https://github.com/bencarpena/dataengineering/blob/main/.attachments/strategy-approach.png)
 ![Solution Architecture and Data Pipeline](https://github.com/bencarpena/dataengineering/blob/main/.attachments/modern-data-warehouse-dataops.png)
+![Technical Component Diagram](https://github.com/bencarpena/dataengineering/blob/main/.attachments/tech_diagram.png)
+![CI/CD Pipeline](https://github.com/bencarpena/dataengineering/blob/main/.attachments/dataops_cicd.png)
 
