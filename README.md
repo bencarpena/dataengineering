@@ -16,7 +16,7 @@ My proposed solution architecture and data engineering pipeline ingests data in 
 ### Lego bricks
 Think of data as individual lego bricks. On its own, we could not make sense of it. But it is meant to integrate and join with our lego bricks. From there we can see the big picture and play with it.
 
-I've used this analogy in my data engineering projects with great success. Data engineers in this sense are also brick masters and our data consumers are the lego masters. 
+I've used this analogy in my data engineering projects with great success. Data engineers in this sense are also brick masters and our data consumers (data scientists, business users, decision makers, and general audiences) are the lego masters. 
 
 
 ## Important Technical notes
