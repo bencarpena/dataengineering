@@ -32,6 +32,8 @@ I've used this analogy in my data engineering projects with great success. Data 
 
 ## Solution Architecture and Data Engineering Diagram : Modern Data Warehousing
 ![Strategy and Approach](https://github.com/bencarpena/dataengineering/blob/main/.attachments/strategy-approach.png)
+![Data Engineering Infographic](https://github.com/bencarpena/dataengineering/blob/main/.attachments/data_engineering_infograph.png)
+![Data and Lego analogy](https://github.com/bencarpena/dataengineering/blob/main/.attachments/dataops_lego.png)
 ![Solution Architecture and Data Pipeline](https://github.com/bencarpena/dataengineering/blob/main/.attachments/modern-data-warehouse-dataops.png)
 ![Technical Component Diagram](https://github.com/bencarpena/dataengineering/blob/main/.attachments/tech_diagram.png)
 ![CI/CD Pipeline](https://github.com/bencarpena/dataengineering/blob/main/.attachments/dataops_cicd.png)
