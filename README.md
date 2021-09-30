@@ -13,8 +13,14 @@ From operating costs, development cycle time, resource inventory, and fugitive e
 ## Solution Architecture
 My proposed solution architecture and data engineering pipeline ingests data in any format and structure. Data is then delivered to consumers as data products - marked as *General Availability* and *Public Preview* accordingly - that can be integrated in *any* platform and in any manner (velocity, volume, value, veracity, variety).
 
+### Lego bricks
+Think of data as individual lego bricks. On its own, we could not make sense of it. But it is meant to integrate and join with our lego bricks. From there we can see the big picture and play with it.
+
+I've used this analogy in my data engineering projects with great success. Data engineers in this sense are also brick masters and our data consumers are the lego masters. 
+
 
 ## Important Technical notes
+- My solution architecture and design relies heavily on Azure Data Factory, Databricks, Python, and SQL
 - Normalized relational databases are too rigid to scale to the requirements of enormous datasets.
 - Making your data products semi-structured or unstructured is an advantage.
 - One row is one record. Columns denote attributes. Combination of attributes facilitate key-value pairing.
