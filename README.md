@@ -13,10 +13,14 @@ From operating costs, development cycle time, resource inventory, and fugitive e
 ## Solution Architecture
 My proposed solution architecture and data engineering pipeline ingests data in any format and structure. Data is then delivered to consumers as data products - marked as *General Availability* and *Public Preview* accordingly - that can be integrated in *any* platform and in any manner (velocity, volume, value, veracity, variety).
 
-### Lego bricks
-Think of data as individual lego bricks. On its own, we could not make sense of it. But it is meant to integrate and join with our lego bricks. From there we can see the big picture and play with it.
+### The Lego bricks approach
+Think of data as individual lego bricks. On its own, we could not make sense of it. But it is meant to integrate and join with other lego bricks. From there we can see the big picture and play with it.
 
 I've used this analogy in my data engineering projects with great success. Data engineers in this sense are also brick masters and our data consumers (data scientists, business users, decision makers, and general audiences) are the lego masters. 
+
+Gone are the days where we build rigid data structures that lacks the agility and malleability to adapt to every need of the data consumer.
+
+Lego bricks for the win!
 
 
 ## Important Technical notes
