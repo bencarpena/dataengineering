@@ -18,7 +18,7 @@ Think of data as individual lego bricks. On its own, we could not make sense of 
 
 I've used this analogy in my data engineering projects with great success. Data engineers in this sense are also brick masters and our data consumers (data scientists, business users, decision makers, and general audiences) are the lego masters. 
 
-Gone are the days where we build rigid data structures that lacks the agility and malleability to adapt to every need of the data consumer.
+Gone are the days where we build rigid data structures that lack the agility and malleability to adapt to every need of the data consumer.
 
 Lego bricks for the win!
 
