@@ -56,16 +56,3 @@ And SBU  = 'SJV'
 And LEFT(CalendarDateKey, 4) = '2019'
 ```
 
-## Benchmarking Data Foundation Design approach & Structure : t_pr_ds5001_BenchmarkingMetrics
-- **Structure**: Semi-structured; key-value pairs; optimized for consumption
-- Sample query returns _814 records_ with an elapsed time of **5 ms** and CPU time of **0 ms**
-
-
-```
-SELECT * From dbo.t_pr_ds5001_BenchmarkingMetrics
-Where	SBU = 'SJV'
-		And METRIC_STATUS = 'General Availability'
-```
-
-
-
